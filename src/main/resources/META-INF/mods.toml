@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="rust_oil_and_survival"
+version="1.0.0"
+displayName="Rust, Oil, and Survival"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Beta_Nara_Softworks, MCreator"
+
+[[dependencies.rust_oil_and_survival]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

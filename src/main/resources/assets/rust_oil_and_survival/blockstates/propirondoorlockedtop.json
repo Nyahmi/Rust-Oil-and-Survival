@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "rust_oil_and_survival:propirondoorlockedtop"
+    },
+    "facing=north": {
+      "model": "rust_oil_and_survival:propirondoorlockedtop"
+    },
+    "facing=east": {
+      "model": "rust_oil_and_survival:propirondoorlockedtop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rust_oil_and_survival:propirondoorlockedtop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rust_oil_and_survival:propirondoorlockedtop",
+      "y": 270
+    }
+  }
+}

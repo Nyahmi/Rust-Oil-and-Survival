@@ -1,0 +1,11 @@
+{
+  "_fv": 5,
+  "_type": "tab",
+  "definition": {
+    "name": "Props",
+    "icon": {
+      "value": "Blocks.IRON_DOOR"
+    },
+    "showSearch": false
+  }
+}
